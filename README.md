@@ -1,5 +1,6 @@
 # DoubleBrickBuster
-My third Unity game, you can learn how to use multiple gameobject
+My third Unity game, you can learn how to use multiple gameobject.
+If you really first about Unity, you can check out this project [https://github.com/aldiand/NumberWizard](https://github.com/aldiand/NumberWizard]
 
 ## GameObject
 GameObject is a part of game, you can make multiple object just using 1 GameObject.
