@@ -1,7 +1,7 @@
 # DoubleBrickBuster
 My third Unity game, you can learn how to use multiple gameobject
 
-## GamOebject
+## GameObject
 GameObject is a part of game, you can make multiple object just using 1 GameObject.
 ### Brick
 In this game, I make 3 Brick GameObject.
